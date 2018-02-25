@@ -1,2 +1,2 @@
 # Baseball-Score
-This is a Java program i wrote during the a coding competition at UMD
+This is a Java program I wrote during the Microsoft coding competition at UMD.
